@@ -1,1 +1,1 @@
-# Dynamics_Matrix_Controller_SISO
+# Dynamic_Matrix_Controller_SISO
